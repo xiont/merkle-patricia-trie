@@ -1,4 +1,4 @@
-module merkle-patrica-trie
+module github.com/xiont/merkle-patrica-trie
 
 go 1.13
 
