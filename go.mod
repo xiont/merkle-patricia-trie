@@ -1,4 +1,4 @@
-module github.com/xiont/merkle-patrica-trie
+module github.com/xiont/merkle-patricia-trie
 
 go 1.13
 
